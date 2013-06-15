@@ -1,0 +1,10 @@
+{
+  "name": "site-boilerplate",
+  "version": "0.0.1",
+  "ignore": [
+    "node_modules"
+  ],
+  "dependencies": {
+    "modernizr": "~2.6.2"
+  }
+}
