@@ -1,3 +1,5 @@
 node_modules
 src/components
 .sass-cache
+docs/css
+docs/js
