@@ -1,1 +1,16 @@
-body{background:#000;color:red;margin:0}
+/* line 1, ../../src/sass/core/core.scss */
+body {
+  background: #000;
+  color: red;
+  margin: 0;
+}
+
+/* line 17, ../../src/sass/components/buttons.scss */
+.button {
+  color: blue;
+}
+
+/* line 15, ../../src/sass/components/nav.scss */
+.nav {
+  color: blue;
+}
