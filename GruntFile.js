@@ -105,17 +105,17 @@ module.exports = function(grunt) {
     },
     styleguide: {
       dist: {
-          options: {
-            name: 'Style Guide',
-            framework: {
-              name: 'kss',
-              options: {
-              }
-            }
+        options: {
+          framework: {
+            name: 'kss'
           },
-          files: {
-            'docs/css': 'src/sass/*.scss',
+          template: {
+            src: 'src/docs/templates/css'
           }
+        },
+        files: {
+          'docs/css': 'src/sass/*.scss',
+        }
       }
     },
     connect: {
