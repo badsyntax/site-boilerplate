@@ -24,6 +24,7 @@
     "grunt-jsdoc": "~0.3.3",
     "grunt-contrib-compass": "~0.2.0",
     "grunt-modernizr": "~0.3.0",
-    "grunt-styleguide": "~0.2.6"
+    "grunt-styleguide": "~0.2.6",
+    "grunt-contrib-copy": "~0.4.1"
   }
 }
